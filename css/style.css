@@ -2101,7 +2101,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .panel-heading a {
-    background: url("../images/dark-kashi.gif");
+    background: #222;
+    /* background: url("../images/dark-kashi.gif"); */
 }
 
 canvas {
