@@ -1,4 +1,4 @@
-;(function () {
+; (function () {
 
     'use strict';
 
@@ -53,7 +53,7 @@
                     setTimeout(counter, 400);
                     $(this.element).addClass('animated');
                 }
-            }, {offset: '90%'});
+            }, { offset: '90%' });
         }
     };
 
@@ -91,7 +91,7 @@
 
             }
 
-        }, {offset: '85%'});
+        }, { offset: '85%' });
     };
 
 
@@ -187,18 +187,18 @@
                 navActive($(this.element).data('section'));
             }
         }, {
-            offset: '100px'
-        });
+                offset: '100px'
+            });
 
         $section.waypoint(function (direction) {
             if (direction === 'up') {
                 navActive($(this.element).data('section'));
             }
         }, {
-            offset: function () {
-                return -$(this.element).height() + 55;
-            }
-        });
+                offset: function () {
+                    return -$(this.element).height() + 55;
+                }
+            });
 
     };
 
