@@ -567,6 +567,10 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     position: relative;
 }
 
+.emote-img {
+    pointer-events: none;
+}
+
 .colorlib-heading {
     font-size: 18px;
     margin-bottom: 4em;
