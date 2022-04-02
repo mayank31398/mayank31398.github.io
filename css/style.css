@@ -672,7 +672,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     letter-spacing: 1px;
     text-transform: uppercase;
     font-family: "Quicksand", Arial, sans-serif;
-    background: #006257;
+    background: linear-gradient(to right, #283c86, #660066);
     color: #ffffff;
     position: relative;
     -webkit-box-shadow: none !important;
@@ -708,7 +708,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .panel-heading a.collapsed {
-    background: #006257;
+    background: linear-gradient(to right, #283c86, #660066);
     color: #ffffff;
 }
 
@@ -830,7 +830,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
     position: relative;
-    background: #006257;
+    background: linear-gradient(to right, #283c86, #660066);
     padding: 1.5em;
     margin-left: 60px;
     -webkit-background-clip: padding-box;
@@ -879,7 +879,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     margin-bottom: 30px;
     padding: 1.5em;
     color: #F5F5F6;
-    background-color: #006257; 
+    background: linear-gradient(to right, #283c86, #660066);
     -webkit-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
     -moz-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
     -ms-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
@@ -2101,7 +2101,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 }
 
 .panel-default > .panel-heading {
-    background: unset !important;
+    background: linear-gradient(to right, #ad5389, #3c1053);
 }
 
 .panel-heading a {
