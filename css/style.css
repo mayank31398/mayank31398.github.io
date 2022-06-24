@@ -17,7 +17,7 @@ body {
     font-weight: 400;
     font-size: 15px;
     background: #000000;
-    /* background: #000000 url("../images/dark-kashi.gif"); */
+    /* background: #000000 url("../images/background/dark-kashi.gif"); */
     line-height: 1.8;
     color: rgba(0, 0, 0, 0.7);
     background-repeat: no-repeat;
@@ -2106,7 +2106,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .panel-heading a {
     background: #222;
-    /* background: url("../images/dark-kashi.gif"); */
+    /* background: url("../images/background/dark-kashi.gif"); */
 }
 
 canvas {
