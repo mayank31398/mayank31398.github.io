@@ -296,8 +296,8 @@ figure figcaption {
 }
 
 .container-wrap {
-    max-width: 1170px;
-    margin: 0 auto;
+    max-width: 1600px;
+    margin: 0;
 }
 
 #colorlib-main {
@@ -830,7 +830,8 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
     position: relative;
-    background: linear-gradient(to right, #283c86, #660066);
+    /* background: linear-gradient(to right, #283c86, #660066); */
+    background: linear-gradient(to right, rgba(0,0,255,0.1), rgba(255,0,0,0.1));
     padding: 1.5em;
     margin-left: 60px;
     -webkit-background-clip: padding-box;
