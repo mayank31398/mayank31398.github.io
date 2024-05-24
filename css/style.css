@@ -19,7 +19,7 @@ body {
     background: #000000;
     /* background: #000000 url("../images/background/dark-kashi.gif"); */
     line-height: 1.8;
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(0, 0, 0, 0);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
@@ -110,7 +110,7 @@ figure figcaption {
     color: #F5F5F6;
     position: fixed;
     overflow: auto !important;
-    background: rgba(19, 20, 22, 0.61);
+    background: rgba(0, 0, 0, 0);
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -256,7 +256,7 @@ figure figcaption {
     font-size: 15px;
     text-align: center;
     font-weight: 400;
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0);
     padding: 0 20px;
     width: 100%;
 }
@@ -830,8 +830,9 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
     position: relative;
-    /* background: linear-gradient(to right, #283c86, #660066); */
-    background: linear-gradient(to right, rgba(0,0,255,0.1), rgba(255,0,0,0.1));
+    background: linear-gradient(to right, rgba(255,255,255,0.05), rgb(0, 0, 0));
+    /* background: linear-gradient(to left, rgba(255,255,255,0.1), rgba(102,0,102,0.4)); */
+    /* background: rgba(255,255,255,0.1); */
     padding: 1.5em;
     margin-left: 60px;
     -webkit-background-clip: padding-box;
@@ -1352,7 +1353,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     display: block;
     margin-bottom: 20px;
     font-size: 12px;
-    color: rgba(0, 0, 0, 0.4) !important;
+    color: rgba(0, 0, 0, 0) !important;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 400;
