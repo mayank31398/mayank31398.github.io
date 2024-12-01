@@ -830,10 +830,10 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
     position: relative;
-    background: linear-gradient(to right, rgba(255,255,255,0.05), rgb(0, 0, 0));
+    /* background: linear-gradient(to right, rgba(255,255,255,0.05), rgb(0, 0, 0)); */
     /* background: linear-gradient(to left, rgba(255,255,255,0.1), rgba(102,0,102,0.4)); */
     /* background: rgba(255,255,255,0.1); */
-    padding: 1.5em;
+    padding: 0.5em;
     margin-left: 60px;
     -webkit-background-clip: padding-box;
     -moz-background-clip: padding;
