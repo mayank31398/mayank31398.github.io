@@ -834,7 +834,7 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
     /* background: linear-gradient(to left, rgba(255,255,255,0.1), rgba(102,0,102,0.4)); */
     /* background: rgba(255,255,255,0.1); */
     padding: 0.5em;
-    margin-left: 60px;
+    margin-left: 70px;
     -webkit-background-clip: padding-box;
     -moz-background-clip: padding;
     background-clip: padding-box;
