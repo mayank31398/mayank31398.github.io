@@ -132,6 +132,12 @@ external_sources:
         published_date: 2024-06-11
     # categories: [external-posts]
     tags: [blog]
+  - name: HuggingFace
+    posts:
+      - url: https://huggingface.co/blog/mayank-mishra/aurora
+        published_date: 2024-04-02
+    # categories: [external-posts]
+    tags: [blog]
 
 # -----------------------------------------------------------------------------
 # Newsletter
