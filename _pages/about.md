@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am PhD student at **UC Berkeley** exploring pretraining and model architectures. Prior to joining Berkeley, I was a Research Scientist **MIT-IBM Watson Lab** leading pretraining and model architecture research for IBM's Granite Models.
+I am PhD student at **UC Berkeley** exploring pretraining and model architectures. Prior to joining Berkeley, I was leading pretraining and model architecture research at **MIT-IBM Watson Lab** for IBM's Granite Models.
 
 I received my undergraduate education (B.Tech) in Electrical Engineering from the **Indian Institute of Technology Delhi**.
