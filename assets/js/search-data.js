@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-saving-memory-using-padding-free-transformer-layers-during-finetuning",
+        },{id: "post-rigel-base-reaching-llama-3-2-quality-with-lt-1-of-its-compute-blog",
+        
+          title: 'Rigel Base: Reaching Llama-3.2 Quality with &lt;1% of its Compute | blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Introducing Rigel, a 2.3B total / 360M active parameter mixture-of-experts base model.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://open-lm-engine.github.io/blog/rigel/", "_blank");
+          
+        },
+      },{id: "post-saving-memory-using-padding-free-transformer-layers-during-finetuning",
         
           title: 'Saving Memory Using Padding-Free Transformer Layers during Finetuning <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
