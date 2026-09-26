@@ -126,6 +126,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
+  - name: Open LM Engine
+    posts:
+      - url: https://open-lm-engine.github.io/blog/rigel/
+        published_date: 2026-09-26
+    tags: [blog]
   - name: HuggingFace
     posts:
       - url: https://huggingface.co/blog/mayank-mishra/padding-free-transformer
